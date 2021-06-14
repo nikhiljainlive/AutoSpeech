@@ -1,0 +1,2 @@
+rootProject.name = "AutoSpeech"
+include ':app'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoSpeech</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="button_text_detect_language">Detect Language</string>
+    <string name="text_detected_language"><b>Language: </b>%s</string>
+    <string name="error_message_empty_text">Text can not be empty</string>
+    <string name="error_message_undefined_language_detected">Undefined Language detected</string>
+    <string name="error_message_something_went_wrong">Something went wrong! Please try again</string>
+</resources>
