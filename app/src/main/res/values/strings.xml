@@ -6,4 +6,9 @@
     <string name="error_message_empty_text">Text can not be empty</string>
     <string name="error_message_undefined_language_detected">Undefined Language detected</string>
     <string name="error_message_something_went_wrong">Something went wrong! Please try again</string>
+    <string name="button_read_text">Read Text</string>
+    <string name="text_language_not_supported">Language %s not supported</string>
+    <string name="pitch">Pitch</string>
+    <string name="speech_rate">Speech Rate</string>
+    <string name="error_message_download_language">The %1$s language is not available. Click on OK to download the %1$s language.</string>
 </resources>
